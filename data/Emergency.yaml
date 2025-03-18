@@ -1,0 +1,8 @@
+
+train: C:\Users\gravi\Documents\SistemLampu\Main\Sistem-lampu-lalu-lintas\Emergency_Vehicles copy\new\images\train
+val: C:\Users\gravi\Documents\SistemLampu\Main\Sistem-lampu-lalu-lintas\Emergency_Vehicles copy\new\images\val
+
+nc: 4
+names: ['Police Car','Ambulance','Fire Truck','Normal Vehicle']  # class list
+
+
